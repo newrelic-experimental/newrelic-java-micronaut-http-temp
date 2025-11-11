@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: com.newrelic.instrumentation.labs.micronaut-http-s
+ erver-netty-4
+Implementation-Vendor: New Relic Labs
+Implementation-Vendor-Id: com.newrelic.labs
+Implementation-Version: 1.0
+
